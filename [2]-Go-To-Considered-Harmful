@@ -1,0 +1,57 @@
+# Go To Considered Harmful
+
+**Category:** Warmup  
+**Points:** 10  
+**Difficulty:** Easy
+
+## Description
+
+One of the shortest paths to success in a Capture the Flag competition is your ability to do web searches. Quite often you will find hints throughout the problem even in the title of the problem itself. Be careful, however, as sometimes those hints are meant to throw you so far off track that you might need a telescope to see the answer.
+
+**Question:** What is the last name of the famous computer scientist who famously penned the article "Go To Considered Harmful"?
+
+A reminder that most flags, including this one, are case sensitive, so please be sure to capitalize the first letter of our famous computer scientist's last name!
+
+And remember to add the `flag{}`!
+
+## Learning Objectives
+
+- Practice web searching and research skills
+- Understand the importance of reading challenge titles for hints
+- Learn about computer science history
+
+## Hints
+
+- The title of this challenge is a direct reference to a famous article
+- Search for the exact article title: "Go To Considered Harmful"
+- The article was published in the 1960s
+
+## Solution
+
+### Step 1: Search for the Article
+
+Search for "Go To Considered Harmful" on Google or any search engine.
+
+### Step 2: Find the Author
+
+The famous article "Go To Statement Considered Harmful" was written by **Edsger W. Dijkstra** in 1968. It was published in the Communications of the ACM.
+
+### Step 3: Format the Flag
+
+The last name is **Dijkstra** (with capital D).
+
+**Flag:** `flag{Dijkstra}`
+
+## Background
+
+This article is one of the most influential in computer science history. Dijkstra argued that the GOTO statement led to poor program structure and advocated for structured programming. This letter had a profound impact on programming language design and software engineering practices.
+
+## Tools Used
+
+- Web browser
+- Search engine (Google, DuckDuckGo, etc.)
+
+## References
+
+- [Wikipedia: Considered Harmful](https://en.wikipedia.org/wiki/Considered_harmful)
+- [Original Letter (PDF)](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
